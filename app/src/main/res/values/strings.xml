@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LampLOL</string>
+    <string name="moins_rouge">-rouge</string>
+    <string name="plus_rouge">+rouge</string>
+    <string name="moins_vert">-vert</string>
+    <string name="plus_vert">+vert</string>
+    <string name="moins_bleu">-bleu</string>
+    <string name="plus_bleu">+bleu</string>
+    <string name="textes">Couleur RGB, R:255, G:0, B:0</string>
+</resources>
